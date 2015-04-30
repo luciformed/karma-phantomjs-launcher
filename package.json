@@ -1,5 +1,5 @@
 {
-  "name": "karma-phantomjs-launcher",
+  "name": "karma-phantomjs2-launcher",
   "version": "0.1.4",
   "description": "A Karma plugin. Launcher for PhantomJS.",
   "main": "index.js",
