@@ -17,7 +17,7 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "phantomjs2": "2.0.0"
+    "phantomjs2": "luciformed/phantomjs2#change-linux-downloadable"
   },
   "peerDependencies": {
     "karma": ">=0.9"
